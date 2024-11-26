@@ -12,7 +12,7 @@ export default function Navbar() {
           <div className="flex items-center">
             <Link to="/" className="flex items-center space-x-2">
               {/* Replace Rocket icon with the logo image */}
-              <img src="https://github.com/realabrar1/ispace-logo/blob/main/ispace-logo.svg" alt="iSpace" className="h-8 w-auto" />
+              <img src="ispace-logo.svg" alt="iSpace" className="h-8 w-auto" />
               
             </Link>
           </div>
