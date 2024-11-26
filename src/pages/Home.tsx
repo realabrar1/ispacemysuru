@@ -331,6 +331,8 @@ export default function Home() {
           referrerPolicy="no-referrer-when-downgrade"
         ></iframe>
       </div>
+        {/* Google Reviews Section */}
+      <GoogleReviews />
 
       <FloatingCallButton />
     </div>
