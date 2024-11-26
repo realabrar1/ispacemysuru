@@ -11,9 +11,12 @@ export default function Navbar() {
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center">
             <Link to="/" className="flex items-center space-x-2">
-              {/* Replace Rocket icon with the logo image */}
-              <img src="src/images/ispace-logo.png" alt="iSpace" className="h-8 w-auto" />
-              
+              <img 
+                src="https://raw.githubusercontent.com/realabrar1/ispacemysuru/refs/heads/main/ispace_logo.png" 
+                alt="iSpace Logo" 
+                className="h-12 w-auto"
+              />
+             
             </Link>
           </div>
           
